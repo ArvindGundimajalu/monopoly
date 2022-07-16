@@ -2,7 +2,7 @@
 
 ### Live site: https://codepen.io/johnnycopes/pen/yzQyMp
 
-The Monopoly game board built with CSS Grid.
+The Trader game board built with CSS Grid.
 
 #### Goals of this project:
 
